@@ -96,6 +96,7 @@ What is the vulnerability of an LFSR stream cipher to key length?
 How can you improve the security of an LFSR stream cipher?
 Can you provide an example of a real-world attack on an LFSR stream cipher?
 What are the limitations of cryptanalysis on an LFSR stream cipher?
+
 Lab Guide: Cryptography Programming Exercises
 
 Classic Cryptography Topics
