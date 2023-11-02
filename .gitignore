@@ -1,0 +1,4 @@
+# Ignore virtual environments
+venv/
+cmpSecurity-env/
+virtualenv/
