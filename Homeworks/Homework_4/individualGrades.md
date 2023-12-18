@@ -4,7 +4,7 @@ All team members contributed to the project, made multiple Zoom and Discord call
 on the questions (like brainstorming) and wrote them down in a one-drive Word document. Then we divided the questions so each person composed all the brainstormed ideas in
 one final complete cohesive answer. 
 
-**Grades:** 
+**Grades:**   
 Alejandra Ospina: 98  
 Joel del Castillo: 100  
 Carlos Montiel: 95  
